@@ -3,5 +3,5 @@ IoT board to control smart home and car systems via Bluetooth, wifi, and GSM wit
 Note: For Sch, Gerber and assembly files or any info you can contact me.
 ![](Under-Control-F.jpg)
 ![](Under-Control-B.jpg)
-![](Front.jpeg)
-![](Back.jpeg)
+![](UC_F.jpeg)
+
